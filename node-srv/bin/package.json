@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "main": "main.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.2",
+    "@types/node": "20.14.9"
+  },
+  "dependencies": {
+    "@clickhouse/client": "^0.2.6"
+  }
+}
